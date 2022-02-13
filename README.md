@@ -31,4 +31,4 @@ The projet's purpose is an analysis of the sales.
 - `P4_02_scriptanalyse.ipynb` : sales analysis
 
 ## Presentation slides
-`P4_04_presentation.pdf` : presentation (PDF)**
+`P4_04_presentation.pdf` : presentation (PDF)
